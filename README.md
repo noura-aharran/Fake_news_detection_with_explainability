@@ -1,9 +1,5 @@
 #  Fake News Detection with Explainability
 
-##  Project 3 – Fake News Detection with Explainability
-
----
-
 ###  1. Type de données nécessaires
 
 Pour entraîner et évaluer un modèle de détection de fake news :
