@@ -1,0 +1,6 @@
+Commande ECHO activ�e.
+# Ignorer le dossier de configuration VSCode
+.vscode/
+
+# Ignorer l'environnement virtuel Python
+fake_news_env/
